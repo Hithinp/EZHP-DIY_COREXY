@@ -22,8 +22,10 @@ I’ve been fascinated by 3D printing ever since I first saw a machine in action
 	•	Maintain a non-commercial license so the design remains in the hands of makers, not corporations.
 
 # Getting Started
-	1.	Clone or download the repository.
-	2.	Review the Bill of Materials (BOM) for all parts required.
-	3.	Open the CAD files in [your CAD software, e.g., Fusion 360, FreeCAD, SolidWorks].
-	4.	Review the assembly instructions and wiring diagrams.
-	5.	Flash your preferred firmware and calibrate.
+	1.	Review the Bill of Materials (BOM) for all parts required.
+	2.	Open the CAD files in [your CAD software, e.g., Fusion 360, FreeCAD, SolidWorks].
+	3.	Review the CAD
+	4.	Flash your preferred firmware and calibrate.
+
+ Use this discord channel for extra help.
+ https://discord.gg/86deFb7Q 
