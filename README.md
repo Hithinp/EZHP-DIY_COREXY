@@ -1,5 +1,5 @@
 # EZHP-DIY_COREXY
-<hr>
+
 # Overview
 
 This project documents my fully custom-built CoreXY 3D printer, designed from the ground up to be fast, precise, and reliable. Inspired by my fascination with additive manufacturing, I engineered this printer to push beyond the limitations of entry-level machines while remaining accessible to the maker community. The entire design — from CAD files to firmware configurations — is released as open source (non-commercial) so others can build, modify, and improve it.
