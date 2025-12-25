@@ -29,3 +29,6 @@ I’ve been fascinated by 3D printing ever since I first saw a machine in action
 
  Use this discord channel for extra help.
  https://discord.gg/86deFb7Q 
+
+ Link for the CAD:
+ https://cad.onshape.com/documents/88d55c4007c3d34a8ed5248e/w/8b40a9d141a471750bee30be/e/9d7f8532433523247a04e476
